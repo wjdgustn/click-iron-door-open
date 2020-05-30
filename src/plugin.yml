@@ -1,0 +1,6 @@
+name: HYONSU_Iron_Door_Right_Click_Open
+main: com.hyonsu.rcirondoor.main
+version: 1.0
+author: 정현수
+website: www.hyonsu.com
+api-version: "1.13"
